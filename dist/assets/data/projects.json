@@ -37,37 +37,37 @@
   },
   {
     "title": "和泰會員網站建置",
-    "description": "參與會員平台前端建置，完成會員中心、權益資訊與任務模組介面，並優化元件重用結構，提升後續維護與功能擴充效率。",
+    "description": "參與會員平台前端建置，前台進場動畫效果、架構規劃等。",
     "image": "assets/images/project/07.jpg",
     "demo": "https://www.hotaimember.com.tw/"
   },
   {
     "title": "現代汽車line抽紅包活動建置",
-    "description": "建置 LINE 抽獎活動網站，整合活動機制、抽獎互動與成果頁顯示流程，並配合檔期需求快速上線，確保活動期間穩定運作。",
+    "description": "建置 LINE 抽獎活動網站，整合活動機制、抽獎互動與成果頁顯示流程，串接API，套用LIFF SDK，並兼容一般網頁等多平台。",
     "image": "assets/images/project/08.jpg",
     "demo": "https://event.fla.com.tw/flaProject/hyundai/web/line_envelope/2022/line_2022envelope.html"
   },
   {
     "title": "理膚寶水活動網建置案例1",
-    "description": "負責品牌活動頁前端開發與版型切換，包含視覺動畫、活動規則與導購節點設計，提升活動內容可讀性與使用者停留時間。",
+    "description": "負責品牌活動頁開發，使用GSAP製作進場動畫與使用者互動，並埋設ga、FB等媒體code，追蹤後續成效。",
     "image": "assets/images/project/09.jpg",
     "demo": "https://event.fla.com.tw/flaProject/loreal/lrp/2020baby/web/"
   },
   {
     "title": "理膚寶水活動網建置案例2",
-    "description": "承接品牌檔期活動頁建置，實作多版位內容與互動模組，並針對手機瀏覽情境做排版與效能優化，確保行銷活動順利執行。",
+    "description": "承接品牌新品landing page開發，使用GSAP、JavaScript等增加使用者互動趣味，提高領取試用轉換率。",
     "image": "assets/images/project/10.jpg",
-    "demo": "https://www.lrp.com.tw/events/2022D11/"
+    "demo": "http://211.72.175.163/flaProject/loreal/lrp/2021effaclar/web/"
   },
   {
     "title": "理膚寶水活動網建置案例3",
-    "description": "負責母親節檔期活動網站前端開發，整合活動資訊、導購流程與品牌視覺規範，提升活動期間導流效果與網站體驗一致性。",
+    "description": "品牌節日檔期活動網站前端開發，提升活動期間導流效果與網站體驗一致性。",
     "image": "assets/images/project/11.jpg",
     "demo": "https://www.lrp.com.tw/events/2022mothersday/"
   },
   {
     "title": "氣象局網站重構",
-    "description": "RWD版型製作，jQuery動態效果，客製化icon設計，部分版型設計。",
+    "description": "政府網站前端開發與架構規劃，配合政府政策網站需通過無障礙AA認證，參考使用者回饋優化網站UX，設計各單元圖示。",
     "image": "assets/images/project/12.jpg",
     "demo": "https://www.cwa.gov.tw/V8/C/"
   },
